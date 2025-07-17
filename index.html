@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🛡️ Secure Password Generator 🔏</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="redefinir-senha.png" type="image/x-icon" />
+  </head>
+  <body>
+    <h1 id="tituloPrincipal">🔐 Gerador de Senhas Aleatorias 🔑</h1>
+
+    <div class="container">
+      <h1 id="subTitulo">🎲 Sua Nova Senha Forte em Segundos ⚡</h1>
+      <input type="text" id="displaySenha" readonly />
+      <label for="tamanho"
+        >Tamanho da Senha: <span id="valorTamanho">18</span></label
+      >
+      <input type="range" id="tamanho" min="4" max="50" value="18" />
+      <label
+        ><input type="checkbox" id="incluirMaiusculas" checked />Incluir Letras
+        Maiúsculas</label
+      >
+      <label
+        ><input type="checkbox" id="incluirMinusculas" checked />Inluir Letras
+        Minúculas</label
+      >
+      <label
+        ><input type="checkbox" id="incluirNumeros" checked />Incluir
+        Números</label
+      >
+      <label
+        ><input type="checkbox" id="incluirEspeciais" checked />Incluir
+        Caracteres Especiais</label
+      >
+      <button id="btnGerarSenha" onclick="btnGerarSenha()">Gerar Senha</button>
+      <button id="btnCopiarSenha" onclick="btnCopiarSenha()">
+        Copiar Senha
+      </button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
