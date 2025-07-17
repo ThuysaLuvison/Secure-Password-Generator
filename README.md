@@ -47,11 +47,12 @@ JavaScript (ES6+)
 # 📌 Licença
 Este projeto está sob a licença MIT.
 
-💼 Projeto pessoal para aprendizado de desenvolvimento web
+💼 Projeto pessoal para aprendizado de desenvolvimento web!
 
 --- 
 
-# 🙋‍♀️ Desenvolvedora
+# 👩‍💻 Desenvolvedora
+
 **Feito com ❤️ e muito café por Thuysa Monique Luvison da Rosa**
 
-[Secure Password Generator](https://secure-password-generator-mu.vercel.app/)
+**[Secure Password Generator](https://secure-password-generator-mu.vercel.app/)**
