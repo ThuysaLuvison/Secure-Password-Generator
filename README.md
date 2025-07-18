@@ -1,7 +1,10 @@
 # 🛡️ Gerador de Senhas Aleatórias 🔏
 
 Bem-vindo ao **Gerador de Senhas Aleatórias**!
-Este projeto foi desenvolvido com HTML, CSS e JavaScript puro, e tem como objetivo fornecer senhas seguras de forma rápida, visual e intuitiva. É ideal para quem busca praticar lógica de programação, manipulação do DOM e interação com elementos da interface.
+
+Este projeto foi desenvolvido com HTML, CSS e JavaScript puro, e tem como objetivo fornecer senhas seguras de forma rápida, visual e intuitiva. 
+
+É ideal para quem busca praticar lógica de programação, manipulação do DOM e interação com elementos da interface.
 
 ---
 
